@@ -16,3 +16,4 @@ link --> https://github.com/elinava-web/DAMovilesflutter
   
   link --> https://pusher.com/tutorials/flutter-listviews/#listtile-customization
   
+  link --> https://pusher.com/tutorials/flutter-listviews/#adding-and-deleting-rows-in-an-animatedlist
