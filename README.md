@@ -14,3 +14,5 @@ link --> https://github.com/elinava-web/DAMovilesflutter
  # Flutter Search Bar With ListView
   link --> https://codingwithdhrumil.com/2021/01/flutter-search-bar-with-listview.html
   
+  link --> https://pusher.com/tutorials/flutter-listviews/#listtile-customization
+  
