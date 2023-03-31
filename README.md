@@ -35,3 +35,5 @@ Link -->  https://github.com/djshah17/Flutter-Carousel-Slider-Sample
 Link -->  https://github.com/retroportalstudio/flutter_itemstack_listview
 
   https://youtu.be/Y6xAQVXkhLA
+  
+Link -->  https://github.com/roberto-fernandes/navigator_in_listview
